@@ -1,0 +1,6 @@
+framework module Pods_XGDLNA {
+  umbrella header "Pods-XGDLNA-umbrella.h"
+
+  export *
+  module * { export * }
+}

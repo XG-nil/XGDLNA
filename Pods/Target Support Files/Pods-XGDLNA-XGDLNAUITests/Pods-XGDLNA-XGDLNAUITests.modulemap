@@ -1,0 +1,6 @@
+framework module Pods_XGDLNA_XGDLNAUITests {
+  umbrella header "Pods-XGDLNA-XGDLNAUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
